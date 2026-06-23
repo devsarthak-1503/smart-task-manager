@@ -1,4 +1,4 @@
-# ⚡ Smart Task Manager (MERN Stack)
+# Smart Task Manager (MERN Stack)
 
 A fully-featured, production-ready, secure MERN application built for managing daily tasks with robust JSON Web Token (JWT) authentication, protected routing, and advanced task sorting and metrics.
 
@@ -6,7 +6,7 @@ Featuring a **premium dark-themed vanilla CSS UI** and a **resilient database fa
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 ### 1. **Robust Authentication & Security**
 * **User Accounts**: Clean registration with frontend and backend formatting checks, login, and secure session logout.
@@ -27,7 +27,7 @@ Featuring a **premium dark-themed vanilla CSS UI** and a **resilient database fa
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 smart-task-manager/
@@ -77,7 +77,7 @@ smart-task-manager/
 
 ---
 
-## 🚀 Running the App Locally
+## Running the App Locally
 
 ### 1. Configure Settings
 Copy `.env.example` to `.env` in both folders and fill in your keys:
@@ -102,5 +102,5 @@ npm run dev
 
 ---
 
-## 🌎 Deployment Setup
-Refer to [DEPLOYMENT.md](file:///C:/Users/Ashish/Desktop/smart-task-manager/DEPLOYMENT.md) for full instructions on linking Render, Vercel, and MongoDB Atlas.
+## Author
+Sarthak Gaikwad
