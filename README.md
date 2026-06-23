@@ -8,7 +8,7 @@ Featuring a **premium dark-themed vanilla CSS UI** and a **resilient database fa
 
 ##  Deployment Links
 
-- Frontend: https://smart-task-manager-nrxsa0yeg-sarthakgaikwad020-2651s-projects.vercel.app/
+- Frontend: https://smart-task-manager-roan.vercel.app/login
 - Backend API: https://smart-task-manager-7iw0.onrender.com/
 
 ## Key Features
